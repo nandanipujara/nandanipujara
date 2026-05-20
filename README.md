@@ -6,7 +6,7 @@
 
 ### 👤 About Me
 
-* 🎓 **Pursuing B.Tech CSE** (6th Semester), tracking in the high-performance tier of my program.
+* 🎓 **Pursuing B.Tech CSE** (6th Semester) at Lovely Professional University.
 * 💻 **DSA Enthusiast:** Actively solving complex problems on LeetCode & GFG with a strong focus on problem-solving.
 * 💡 **Innovator:** Successfully filed a patent with the Indian Patent Office for a machine learning-based emergency response system.
 * 🛠️ **Project Builder:** Experienced in building end-to-end applications, ranging from full-stack MERN apps (Habit Trackers) to unsupervised ML pipelines (Seasonal AQI Clustering Analysis).
