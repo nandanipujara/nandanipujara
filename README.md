@@ -54,9 +54,6 @@
   <a href="mailto:2004nandanipujara@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>&nbsp;
-  <a href="https://leetcode.com/u/nandani_17_11/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
 </p>
 
 <p align="center">
