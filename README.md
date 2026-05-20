@@ -36,11 +36,6 @@
 
 ---
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandanipujara&theme=tokyonight" alt="nandanipujara's GitHub Streak" />
-</p>
 
 ### 📈 GitHub Commit Activity
 
